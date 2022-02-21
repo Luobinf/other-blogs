@@ -8,3 +8,4 @@
 ## NodeJS
 
 1. [【译】事件循环总览——NodeJS事件循环 Part 1](https://github.com/zhangxiang958/Blog/issues/43)
+2. [从 libuv 看事件循环](https://segmentfault.com/a/1190000022449328)
