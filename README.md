@@ -3,6 +3,8 @@
 
 ## JS
 1. [惊艳！可视化的 js：动态图演示-事件循环 Event Loop](https://github.com/biaochenxuying/blog/issues/65)
+2. [Generator](https://zh.javascript.info/generators)
+3. [异步迭代和 generator](https://zh.javascript.info/async-iterators-generators)
 
 
 ## NodeJS
